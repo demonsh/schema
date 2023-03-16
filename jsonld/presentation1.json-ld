@@ -5,7 +5,7 @@
       "id": "@id",
       "type": "@type",
       "Presentation": {
-        "@id": "https://raw.githubusercontent.com/demonsh/schema/main/jsonld/presentation.json-ld#Presentation",
+        "@id": "https://raw.githubusercontent.com/demonsh/schema/main/jsonld/presentation1.json-ld#Presentation",
         "@context": {
           "@version": 1.1,
           "@protected": true,

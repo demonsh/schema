@@ -3,7 +3,7 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/demonsh/schema/main/jsonld/presentation.json-ld",
+        "jsonLdContext": "https://raw.githubusercontent.com/demonsh/schema/main/jsonld/presentation1.json-ld",
         "jsonSchema": "https://raw.githubusercontent.com/demonsh/schema/main/json/presentation1.json"
       }
     },
