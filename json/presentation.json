@@ -4,7 +4,7 @@
     "$metadata": {
       "uris": {
         "jsonLdContext": "https://raw.githubusercontent.com/demonsh/schema/main/jsonld/presentation.json-ld",
-        "jsonSchema": "https://raw.githubusercontent.com/demonsh/schema/main/jsonld/presentation.json"
+        "jsonSchema": "https://raw.githubusercontent.com/demonsh/schema/main/json/presentation.json"
       }
     },
     "properties": {
