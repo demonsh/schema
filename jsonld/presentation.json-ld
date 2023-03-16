@@ -17,6 +17,10 @@
             "@id": "vocab:score",
             "@type": "xsd:integer"
           }
+          "description": {
+            "@id": "vocab:description",
+            "@type": "xsd:string"
+          }
         }
       }
   }
